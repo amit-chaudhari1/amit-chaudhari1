@@ -2,7 +2,7 @@
 
 This is Amit, I am a Developer with experience in building mobile applications using Flutter. I love to collaborating with talented people and being inspired. If you have an idea to create interesting projects then I'd like to hear from you.
 
-- 🔭 I’m currently working on my own Personal Website.
+- 🔭 I’m currently working on my own PDF TO audio book, Want to collab? send me a DM on anywhere...
 - 🌱 I’m currently learning Flutter, Svelte, and pentesting.
 - 👯 I’m looking to collaborate on any open source projects made with flutter.
 - 👯 I’m also looking for work, hit me up on social media if you have any need for me.
