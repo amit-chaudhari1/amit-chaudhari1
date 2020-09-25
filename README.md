@@ -10,4 +10,9 @@ This is Amit, I am a Developer with experience in building mobile applications u
 - 💬 Ask me about Flutter | Python | Web development | Info-Sec | UI/UX
 - 📫 How to reach me: [Website](https://amyth.dev), [Linkedin](https://www.linkedin.com/in/amit-chaudhari-6b2080170/) & [Youtube channel](https://youtube.com/channel/UCJ8mB3GeEEPnY0oWzP8vU7Q)
 
+### Show off:
+
+![Codewars-Rank](https://www.codewars.com/users/amitchaudhari9121/badges/large)
+
+
 
