@@ -8,7 +8,7 @@ This is Amit, I am a Developer with experience in building mobile applications u
 - 👯 I’m also looking for work, hit me up on social media if you have any need for me.
 - 🖥 I am studying and personally resourcing funds for OSCP 
 - 💬 Ask me about Flutter | Python | Web development | Info-Sec | UI/UX
-- 📫 How to reach me: [Website](https://amyth.dev), [Linkedin](https://www.linkedin.com/in/amit-chaudhari-6b2080170/) & [Youtube channel](https://youtube.com/channel/UCJ8mB3GeEEPnY0oWzP8vU7Q)
+- 📫 How to reach me: [Website](https://amyth.dev), [Linkedin](https://www.linkedin.com/in/amit-chaudhari-6b2080170/) & [Instagram](https://www.instagram.com/_a_myth__/)
 
 ### Show off:
 
