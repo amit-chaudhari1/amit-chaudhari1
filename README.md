@@ -12,7 +12,5 @@ This is Amit, I am a Developer with experience in building mobile applications u
 
 ### Show off:
 
-![Codewars-Rank](https://www.codewars.com/users/amitchaudhari9121/badges/large)
-
 ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amitchaudhari9121&show_icons=true)
 
