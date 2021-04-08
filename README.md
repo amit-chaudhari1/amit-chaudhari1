@@ -1,16 +1,15 @@
+# Amit Chaudhari
 ### Hi there 👋
 
-This is Amit, I am a Developer with experience in building mobile applications using Flutter. I love to collaborating with talented people and being inspired. If you have an idea to create interesting projects then I'd like to hear from you.
+[Ongoing Projects](https://amyth.dev/projects) | [App Ideas](https://amyth.dev/app-ideas) | ([Contact me](https://amyth.dev/contact) if you wanna colab!, or just want to hangout) 
 
-- 🔭 I’m currently working on my own PDF TO audio book, Want to collab? send me a DM on anywhere...
-- 🌱 I’m currently learning Flutter, Svelte, and pentesting.
-- 👯 I’m looking to collaborate on any open source projects made with flutter.
-- 👯 I’m also looking for work, hit me up on social media if you have any need for me.
-- 🖥 I am studying and personally resourcing funds for OSCP 
-- 💬 Ask me about Flutter | Python | Web development | Info-Sec | UI/UX
-- 📫 How to reach me: [Website](https://amyth.dev), [Linkedin](https://www.linkedin.com/in/amit-chaudhari-6b2080170/) & [Instagram](https://www.instagram.com/_a_myth__/)
+[My Resume](https://amyth.dev/resume) | [About Me](https://amyth.dev/about)
 
-### Show off:
+<a href="https://www.buymeacoffee.com/amyth.dev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> Helps me in server costs and so on...
 
-![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amitchaudhari9121&show_icons=true)
+### Please Please Please give my repos a  :star: , really motivates me (cloutChaser)!
 
+Website: [https://amyth.dev](https://amyth.dev) | 
+Twitter: [@amyth_dev](https://twitter.com/amyth_dev)
+
+(づ｡◕‿◕｡)づ
