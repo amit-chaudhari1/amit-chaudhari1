@@ -17,3 +17,7 @@ Twitter: [@amyth_dev](https://twitter.com/amyth_dev)
 If you want to chat or want to colab, tag me up at twitter, I'll certainly try to reachout
 
 (づ｡◕‿◕｡)づ
+---
+Currently Reading: Atomic Design | The VTK textBook
+
+Currently working on: FURY-gl | Helium (side project)
