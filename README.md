@@ -18,6 +18,6 @@ If you want to chat or want to colab, tag me up at twitter, I'll certainly try t
 
 (づ｡◕‿◕｡)づ
 ---
-Currently Reading: Atomic Design | The VTK textBook
+Currently Reading: Refactoring UI | "Ask" The Counterintuitive Online Method to Discover Exactly What Your Customers want | The Start-up of You. | Docs for Hyperledger, Python, Typescript, Vtk, Node.
 
-Currently working on: FURY-gl | Helium (side project)
+Currently working on: FURY-gl | Helium (side project) | HyperLedger Project (just for fun)
