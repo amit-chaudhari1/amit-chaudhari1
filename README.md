@@ -19,6 +19,3 @@ If you want to chat or want to colab, tag me at twitter, I'll certainly try to r
 
 (づ｡◕‿◕｡)づ
 ---
-Currently Reading: Refactoring UI | "Ask" The Counterintuitive Online Method to Discover Exactly What Your Customers want | Docs for Hyperledger, Python, Typescript, Node | Mozilla Web Docs.
-
-Currently working on: FURY-gl | Helium (side project) | HyperLedger Project
