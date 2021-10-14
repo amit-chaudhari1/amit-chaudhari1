@@ -1,6 +1,6 @@
 <h1 align="center">Yo! I'm Amit Chaudhari.</h1>
 
-<p align="center">
+<p align="left">
 <a href="https://amyth.dev">My Website</a> <br>
 <a href="https://amyth.dev/resume.pdf">My Resume</a> <br>
 <a href="https://blog.amyth.dev">My Hashnode Blog</a> <br>
