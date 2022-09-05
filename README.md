@@ -1,4 +1,4 @@
-<h1 align="center">Yo! I'm Amit Chaudhari.</h1>
+<h1 align="center">Hey! :wave: I'm Amit Chaudhari.</h1>
 
 <p align="left">
 <a href="https://amyth.dev">My Website</a> <br>
